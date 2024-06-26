@@ -1,0 +1,15 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning"],
+        "responses": ["Hello! How can I assist you today?", "Hi there!", "Hey, what can I do for you?"]
+      },
+      {
+        "tag": "weather",
+        "patterns": ["What's the weather like today?", "Tell me the forecast", "Is it going to rain?"],
+        "responses": ["Here is the weather forecast.", "Currently, it's sunny with a high of 25°C.", "Expect rain showers later today."]
+      }
+    ]
+  }
+  
